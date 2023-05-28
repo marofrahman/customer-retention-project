@@ -10,10 +10,10 @@ Through customer analysis, we looked into the performace of several of our marke
 
 ### Deliverables: ###
 * Executive Summary
-  * Includes problem statement, propsed solutions as well as some cost-benefit analysis
+  * An [executive summary](https://docs.google.com/document/d/1eACfxH7Q3adEquhsQonNBJaW3loXlg1D4P4u4xkKieo/edit?usp=sharing) including a problem statement, propsed solutions and cost-benefit analysis
 
 * Presentation
-  * A [presenation](https://docs.google.com/presentation/d/1-4ZazwMNkEJq7HVaVQKyJktiWdjbgtV6fdNqquYPkp8/edit#slide=id.g22331d8c760_1_20) pitched to the executive team based on the effectiveness of marketing channels at that moment in time to see if budgets were used properly
+  * A [presenation](https://docs.google.com/presentation/d/1-4ZazwMNkEJq7HVaVQKyJktiWdjbgtV6fdNqquYPkp8/edit?usp=sharing) pitched to the executive team based on the effectiveness of marketing channels at that moment in time to see if budgets were used properly
 
 * Dashboard
   * A [Power BI dashboard](https://app.powerbi.com/groups/me/reports/a5226a4d-034d-4065-87d5-cf8921feaeb4/ReportSection?ctid=15830474-cef0-4326-88db-96e5ab019d8a&experience=power-bi) displaying numerical analysis on the KPIs listed, via comparison over time and among items
