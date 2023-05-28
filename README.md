@@ -6,7 +6,7 @@ Through customer analysis, we looked into the performace of several of our marke
 
 * **Churn Rate**
 * **Customer Lifetime Value**
-* **Average Revenue per transaction**
+* **Average Revenue Per Transaction**
 
 ### Deliverables: ###
 * Executive Summary
