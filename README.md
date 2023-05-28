@@ -16,7 +16,7 @@ Through customer analysis, we looked into the performace of several of our marke
   * A presenation pitched to the executive team based on the effectiveness of marketing channels at that moment in time to see if budgets were used properly
 
 * Dashboard
-  * Power BI dashboard displaying numerical analysis on the KPIs listed, via comparison over time and among items
+  * A [Power BI dashboard](https://app.powerbi.com/groups/me/reports/a5226a4d-034d-4065-87d5-cf8921feaeb4/ReportSection?ctid=15830474-cef0-4326-88db-96e5ab019d8a&experience=power-bi) displaying numerical analysis on the KPIs listed, via comparison over time and among items
 
 Below is the finalised dashboard used in the reports of the project:
 
